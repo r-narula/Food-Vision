@@ -14,13 +14,14 @@ It is based upom a pre-trained Image Classification Model that comes with Keras 
 
 **Dataset :** **`Food101`**
 
-- Just open above link and select Food Vision
-
 ## Few Examples
 
 * Ice-Cream predicted as Ice-Creame
+
   <img src="images/Icecream-predicted.png">
+  
 * Pizza predicted as Pizza
+
   <img src="images/pizza-predicted.png">
 ## Run Locally
 
