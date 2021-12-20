@@ -16,10 +16,6 @@ It is based upom a pre-trained Image Classification Model that comes with Keras 
 
 - Just open above link and select Food Vision
 
-## Demo
-
-![](extras/food.gif)
-
 ## Few Examples
 
 * Ice-Cream predicted as Ice-Creame
